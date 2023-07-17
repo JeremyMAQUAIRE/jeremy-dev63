@@ -532,7 +532,7 @@
 
           <div class="col-lg-8 mt-5 mt-lg-0">
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-recaptcha-site-key="6Le3oS4nAAAAABoP72SI0qAjRjD9qsSnSPHDFWaw">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
@@ -545,7 +545,7 @@
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" required>
               </div>
               <div class="form-group mt-3">
-                <input type="file" class="form-control" name="file" id="file" placeholder="Fichier" required>
+                <input type="file" class="form-control" name="resume" id="resume" placeholder="Fichier">
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
@@ -600,6 +600,9 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+  <!-- Google reCaptcha -->
+  <script src="https://www.google.com/recaptcha/api.js?render=6Le3oS4nAAAAABoP72SI0qAjRjD9qsSnSPHDFWaw"></script>
 
 </body>
 
