@@ -38,7 +38,6 @@
   $contact->add_message( $_POST['message'], 'Message', 10);
   $contact->add_attachment('resume', 20, array('pdf', 'doc', 'docx', 'rtf'));
 
-  $contact->recaptcha_secret_key = '6Le3oS4nAAAAAKrB_XTNHjzEZvinIO5EtqctJy5d';
   echo $contact->send();
 
 ?>

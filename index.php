@@ -532,7 +532,7 @@
 
           <div class="col-lg-8 mt-5 mt-lg-0">
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-recaptcha-site-key="6Le3oS4nAAAAABoP72SI0qAjRjD9qsSnSPHDFWaw">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
