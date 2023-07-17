@@ -55,9 +55,9 @@
       <h1>MAQUAIRE Jérémy</h1>
       <p>Je suis <span class="typed" data-typed-items="Développeur Full Stack, Freelance"></span></p>
       <div class="social-links">
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="github"><i class="bx bxl-github"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100094957867296" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://github.com/JeremyMAQUAIRE?tab=repositories" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://linkedin.com/in/jérémy-maquaire" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -573,9 +573,9 @@
       <h3>MAQUAIRE Jérémy / Jérémy Dev 63</h3>
       <p>Le développement web est l'art de créer des ponts virtuels, reliant les idées et les personnes à travers des lignes de code. C'est une fusion subtile de créativité et de technologie.</p>
       <div class="social-links">
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="github"><i class="bx bxl-github"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100094957867296" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://github.com/JeremyMAQUAIRE?tab=repositories" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://linkedin.com/in/jérémy-maquaire" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>Jérémy Dev63</span></strong>. All Rights Reserved
