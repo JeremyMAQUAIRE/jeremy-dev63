@@ -71,7 +71,7 @@
         <div class="section-title">
           <h2>A propos</h2>
           <p>
-            Je valorise la créativité et la collaboration pour concevoir des solutions innovantes. Je suis adaptable, passionné et curieux, aime résoudre les problèmes avec rigueur. je créer des expériences web intuitives, accessibles et performantes en utilisant les dernières technologies pour satisfaire les utilisateurs et les clients.</br>
+            Je valorise la créativité et la collaboration pour concevoir des solutions innovantes. Je suis adaptable, passionné et curieux, aime résoudre les problèmes avec rigueur. je crée des expériences web intuitives, accessibles et performantes en utilisant les dernières technologies pour satisfaire les utilisateurs et les clients.</br>
             Je suis membre d'un club de tennis, où je pratique régulièrement ce sport et particpe à l'animation de mon village via une association festive.
           </p>
         </div>
@@ -216,7 +216,7 @@
             <h3 class="resume-title">Expériences professionnelles</h3>
             <div class="resume-item">
               <h4>Développeur Web Indépendant</h4>
-              <h5>Jérémy Dev 63 / Novembre 2023 - Présent</h5>
+              <h5>Jérémy Dev 63 / En cours de création</h5>
               <p><em>Montaigut en Combraille (63) </em></p>
               <ul>
                 <li>Création de projet en respectant le cahier des charges proposer par mes clients.</li>
