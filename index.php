@@ -84,7 +84,7 @@
         <div class="section-title">
           <h2>A propos</h2>
           <p>
-            Je valorise la créativité et la collaboration pour concevoir des solutions innovantes. Je suis adaptable, passionné et curieux, aime résoudre les problèmes avec rigueur. je crée des expériences web intuitives, accessibles et performantes en utilisant les dernières technologies pour satisfaire les utilisateurs et les clients.</br>
+            Je valorise la créativité et la collaboration pour concevoir des solutions innovantes. Je suis adaptable, passionné et curieux, aime résoudre les problèmes avec rigueur. Je crée des expériences web intuitives, accessibles et performantes en utilisant les dernières technologies pour satisfaire les utilisateurs et les clients.</br>
             Je suis membre d'un club de tennis, où je pratique régulièrement ce sport et participe à l'animation de mon village via une association festive.
           </p>
         </div>
@@ -275,7 +275,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Découvrez mon portfolio de développement web, une vitrine de mes compétences et réalisations. Avec plus de [nombre] années d'expérience, je crée des sites web dynamiques et esthétiques, utilisant les dernières technologies et standards du web. Explorez mes projets variés, allant de la conception d'interfaces utilisateur à l'intégration de fonctionnalités avancées. Mon portfolio démontre mon engagement envers l'excellence et l'innovation dans chaque projet.</p>
+          <p>Découvrez mon portfolio de développement web, une vitrine de mes compétences et réalisations. Avec plusieurs années d'expérience, je crée des sites web dynamiques et esthétiques, utilisant les dernières technologies et standards du web. Explorez mes projets variés, allant de la conception d'interfaces utilisateur à l'intégration de fonctionnalités avancées. Mon portfolio démontre mon engagement envers l'excellence et l'innovation dans chaque projet.</p>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
@@ -386,6 +386,18 @@
               </div>
               <h4><a href="">SEO (sur devis)</a></h4>
               <p>Un site SEO est un site optimisé pour les moteurs de recherche afin d'améliorer son classement et sa visibilité en ligne, attirant ainsi plus de trafic qualifié.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box iconbox-teal">
+              <div class="icon">
+              <div class="icon">
+                <img src="/assets/img/maintenance.png" alt="">
+              </div>
+              </div>
+              <h4><a href="">Maintenance (à partir de 49€/mois)</a></h4>
+              <p>La maintenance d'un site web implique des mises à jour régulières, gestion des bugs, sauvegardes, optimisation de la vitesse et de la sécurité pour assurer un fonctionnement fluide et sécurisé.</p>
             </div>
           </div>
 
