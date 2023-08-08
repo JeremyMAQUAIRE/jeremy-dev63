@@ -438,37 +438,33 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 1000px;
   display: block;
   background: none;
   border-radius: 0;
 }
 
-.skills .progress .skill {
-  padding: 10px 0;
-  margin: 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #45505b;
-}
-
-.skills .progress .skill .val {
+.skills .progress {
   float: right;
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
-  background: #f2f3f5;
+.skills .carousel-inner{
+  height: 100px;
+  width: 100px;
 }
 
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #C0A360;
+.skills .carousel-item{
+  height: 100px;
+  width: 100%;
 }
+
+.skills #logo img{
+  height: 100px;
+  width: 100px;
+}
+
+
 
 /*--------------------------------------------------------------
 # Resume

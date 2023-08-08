@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Jeremy Dev 63</title>
-  <meta content="" name="description">
+  <meta content="Site de présentation de l'entreprise Jeremy Dev 63." name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -122,7 +122,7 @@
     </section><!-- End About Section -->  
 
     <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills section-bg">
+    <section id="skills" class="skills section-bg ">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -130,59 +130,22 @@
           <p>Au fil des années, j'ai acquis une expérience solide en programmation, me permettant de maîtriser plusieurs langages. J'ai développé des applications innovantes, résolu des problèmes complexes et collaboré avec des équipes talentueuses, consolidant ainsi mes compétences en développement logiciel.</p>
         </div>
 
-        <div class="row skills-content">
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">HTML <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS / Bootstrap <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">65%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP / SQL<i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Symfony <i class="val">60%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Git / Github <i class="val">70%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
+        <div id="logo" class="d-flex justify-content-around flex-wrap">
+          <img src="assets/img/php.jpeg" class="m-3" alt="Logo de php">
+          <img src="assets/img/symfony.png" class="m-3" alt="Logo de Symfony">
+          <img src="assets/img/github.png" class="m-3" alt="Logo de Github">
+          <img src="assets/img/html5.png" class="m-3" alt="Logo Html 5">
+          <img src="assets/img/cc3.png" class="m-3" alt="Logo CSS 3">
+          <img src="assets/img/js.png" class="m-3" alt="Logo JS">
+          <img src="assets/img/mysql.png" class="m-3" alt="Logo de MySql">
+          <img src="assets/img/bootstrap.jpeg" class="m-3" alt="Logo de Bootstrap">
+          <img src="assets/img/agile.png" class="m-3" alt="Logo de Agile">
+          <img src="assets/img/scrum.png" class="m-3" alt="Logo de Scrum">
+          <img src="assets/img/seologo.png" class="m-3" alt="Logo de Seo">
+          <img src="assets/img/composer.jpeg" class="m-3" alt="Logo de Composer">
+          <img src="assets/img/api.png" class="m-3" alt="Logo de API Rest">
         </div>
+        
 
       </div>
     </section><!-- End Skills Section -->
@@ -229,7 +192,7 @@
             <h3 class="resume-title">Expériences professionnelles</h3>
             <div class="resume-item">
               <h4>Développeur Web Indépendant</h4>
-              <h5>Jérémy Dev 63 / En cours de création</h5>
+              <h5>Jérémy Dev 63 / Juillet 2023</h5>
               <p><em>Montaigut en Combraille (63) </em></p>
               <ul>
                 <li>Création de projet en respectant le cahier des charges proposer par mes clients.</li>
@@ -513,6 +476,11 @@
 
   <!-- Google reCaptcha -->
   <script src="https://www.google.com/recaptcha/api.js?render=6Le3oS4nAAAAABoP72SI0qAjRjD9qsSnSPHDFWaw"></script>
+
+  <script>
+    var myCarousel = document.querySelector('#myCarousel')
+    var carousel = new bootstrap.Carousel(myCarousel)
+  </script>
 
 </body>
 
