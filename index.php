@@ -245,6 +245,7 @@
           <a href="https://www.codeur.com/-jeremym6bcp" target="_blank" rel="noopener noreferrer"><img src="assets/img/codeur.png" class="m-3" alt="Logo de php"></a>
           <a href="https://www.malt.fr/profile/jeremymaquaire" target="_blank" rel="noopener noreferrer"><img src="assets/img/malt.png" class="m-3" alt="Logo de Symfony"></a>
           <a href="https://partnernetwork.ionos.fr/partner/j.r.my.dev.63" target="_blank" rel="noopener noreferrer"><img src="assets/img/ionos.svg" class="m-3" alt="Logo de Github"></a>
+          <a href="https://www.devoji.com/" target="_blank" rel="noopener noreferrer"><img src="assets/img/devoji.jpeg" class="m-3" alt="Logo de Devoji"></a>
         </div>
     </section><!-- End Partner Section -->
 
