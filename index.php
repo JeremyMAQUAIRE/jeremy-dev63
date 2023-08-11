@@ -332,7 +332,7 @@
               <div class="icon">
                 <img src="/assets/img/onePage.png" alt="">
               </div>
-              <h4><a href="">Site One Page (à partir de 99€)</a></h4>
+              <h4><a href="">Site One Page (à partir de 900€)</a></h4>
               <p>Site web avec une seule page contenant toutes les informations essentielles, sans navigation complexe.</p>
             </div>
           </div>
@@ -342,7 +342,7 @@
               <div class="icon">
                 <img src="/assets/img/multiPages.png" alt="">
               </div>
-              <h4><a href="">Site Multi Page (jusqu'à 5) (à partir de 199€)</a></h4>
+              <h4><a href="">Site Multi Page (jusqu'à 5) (à partir de 1700€)</a></h4>
               <p>Un site multi-page jusqu'à 5 pages propose plusieurs onglets distincts pour présenter différents contenus ou services, offrant une expérience utilisateur variée et complète.</p>
             </div>
           </div>
