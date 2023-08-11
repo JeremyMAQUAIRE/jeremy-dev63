@@ -232,6 +232,22 @@
       </div>
     </section><!-- End Resume Section -->
 
+    <!-- ======= Partner Section ======= -->
+    <section id="partner" class="partner section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Partenaires</h2>
+          <p>Voici les partenaires avec qui je collabore.</p>
+        </div>
+
+        <div id="logo" class="d-flex justify-content-around flex-wrap">
+          <a href="https://www.codeur.com/-jeremym6bcp" target="_blank" rel="noopener noreferrer"><img src="assets/img/codeur.png" class="m-3" alt="Logo de php"></a>
+          <a href="https://www.malt.fr/profile/jeremymaquaire" target="_blank" rel="noopener noreferrer"><img src="assets/img/malt.png" class="m-3" alt="Logo de Symfony"></a>
+          <a href="https://partnernetwork.ionos.fr/partner/j.r.my.dev.63" target="_blank" rel="noopener noreferrer"><img src="assets/img/ionos.svg" class="m-3" alt="Logo de Github"></a>
+        </div>
+    </section><!-- End Partner Section -->
+
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
